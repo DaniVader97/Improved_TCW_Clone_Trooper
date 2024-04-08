@@ -1,0 +1,58 @@
+VertexLitGeneric
+{
+	$basetexture "models\DaniVader97\Improved_TCW_Clone_Trooper\misc_stuff/vpauldron_paintable_l"
+	$bumpmap "models\DaniVader97\Improved_TCW_Clone_Trooper\main/normal_8x8"
+                $lightwarptexture "models/DaniVader97/Improved_TCW_Clone_Trooper\main/lightwarp"
+	$surfaceprop Rubber
+
+                $ambientocclusion 1
+                $halflambert 1
+	"$nodecal" "1"
+	"$model" "1"
+
+	
+                "$nocull" 1
+
+                 $phong 1
+                 $phongboost 0.05
+                 $phongexponent 5
+               "$phongfresnelranges" "[0 0.5 1]" 
+               "$rimmask" "1" 
+
+	$rimlight               1
+	$rimlightexponent       2
+	$rimlightboost          4
+
+	"$yellow"		"0"
+	"$blendtintbybasealpha" "1"
+	"$blendtintcoloroverbase"   "0"           // between 0-1 determines how much blended by tinting vs. replacing the color
+	"$colortint_base"       "{ 255 255 255 }"    // put the RGB value of whats being colored when no paint is present, if $blendtintcoloroverbase is 0 then put [255 255 255] here.
+	"$color2"		  "{ 255 255 255 }"	// same as colortint_base
+	"$colortint_tmp"        "[0 0 0]"
+	">=DX90"
+	{
+		"$selfillum"		"0"
+	}
+	"Proxies"
+	{
+		"YellowLevel"
+		{
+			"resultVar" "$yellow"
+		}
+		"Equals"
+		{
+			"srcVar1" "$yellow"
+			"resultVar" "$color2"
+		}
+		"ItemTintColor"
+		{
+			"resultVar" "$colortint_tmp"
+		}
+		"SelectFirstIfNonZero"
+		{
+			"srcVar1"	"$colortint_tmp"
+			"srcVar2"	"$colortint_base"
+			"resultVar" "$color2"
+		}
+	}
+}
