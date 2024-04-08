@@ -1,0 +1,8 @@
+"eyes"
+{
+	"$basetexture" "models\DaniVader97\Improved_TCW_Clone_Trooper/main/eyeball"
+	"$iris" "models\DaniVader97\Improved_TCW_Clone_Trooper/main/iris_r"
+	"$halflambert" "1"
+	"$nodecal" "1"
+
+}

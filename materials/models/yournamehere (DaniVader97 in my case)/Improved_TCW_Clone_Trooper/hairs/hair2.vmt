@@ -1,0 +1,28 @@
+VertexLitGeneric
+{
+	$basetexture "models\DaniVader97\Improved_TCW_Clone_Trooper\hairs/hair2"
+	$bumpmap "models\DaniVader97\Improved_TCW_Clone_Trooper\main/hair_n"
+	$surfaceprop Flesh
+
+                $ambientocclusion 1
+                $halflambert 1
+	"$nodecal" "1"
+	"$model" "1"
+
+	
+                "$nocull" 1
+
+                 $phong 1
+                 $phongboost 0.05
+                 $phongexponent 5
+               "$phongfresnelranges" "[0 0.5 1]" 
+               "$rimmask" "1" 
+
+	$rimlight               1
+	$rimlightexponent       4
+	$rimlightboost          0.1
+
+
+               "$lightwarptexture" "models\DaniVader97\Improved_TCW_Clone_Trooper\main/lightwarp"
+
+}

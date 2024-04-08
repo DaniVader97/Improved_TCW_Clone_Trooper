@@ -1,0 +1,13 @@
+"VertexLitGeneric"
+{
+	"$translucent" 1
+	"$halflambert" 1
+	"$model" 1
+	"$basetexture" "models\DaniVader97\Improved_TCW_Clone_Trooper/main/eyeao"
+	"$envmap" "models\DaniVader97\Improved_TCW_Clone_Trooper/main/eye-reflection-cubemap-"
+                "$envmaptint" "[.23 .23 .23]"
+	"$envmapmask" "models\DaniVader97\Improved_TCW_Clone_Trooper/main/eyemask"
+	"$surfaceprop" "flesh"
+	"$FlashlightNoLambert" 1
+} 
+
