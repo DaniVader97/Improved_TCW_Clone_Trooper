@@ -1,6 +1,8 @@
 # DaniVader97's Clone Trooper model file repository
 I've made this base for you people with every needed DMX. QC. VTF. VMT. files and other archives to make your own posable clone trooper models for Garry's Mod and Source Filmmaker without any need to unpack or decompile the addons if you want to make hexes o re-skins, with this you can make your own clone trooper units, squads, legions, batallions and etc or individual clone characters.
 
+Like many of my addons I'll give this repository some updates and fixes to keep things up.
+
 # "How do I work with this bunch of files? / This is way too complex!"
 This IS MEANT for experienced users knowledgable on Source Engine's model compiling and editing hijinks. You need Crowbar, Blender, Blender Source Tools, VTFEdit and GIMP (because it's free and still as good as Photoshop) to work with all of this. You can get the needed programs from these links: https://www.blender.org/ http://steamreview.org/BlenderSourceTools/ https://github.com/ZeqMacaw/Crowbar https://github.com/NeilJed/VTFLib https://www.gimp.org/
 
