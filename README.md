@@ -6,7 +6,7 @@ This IS MEANT for experienced users knowledgable on Source Engine's model compil
 
 And if you are knowledgable in GitHub too and you want to make some additions/modifications you can request a fork with your own modifications, just let me know. Will you?
 
-# Consider this as some kind of Terms of Service...
+# Consider this as some kind of Terms of Service/License...
 While you can use these files to make your own posable clones, keep in mind that you can't claim this file repository as yours: you must credit me for using this database to make and upload your clone trooper models to Gmod or SFM workshops. Also it would be very nice to  credit properly these names too:
 
 suno (https://steamcommunity.com/id/sunotw), Helios/Vaqxai (https://steamcommunity.com/id/vaqxai), ThaHerminatar (https://steamcommunity.com/id/thaherminatar), Fxo (https://steamcommunity.com/id/OfficialFxo), thechrist (https://steamcommunity.com/id/thecrhist), Florian (https://steamcommunity.com/id/florianboy), ArveFraPakistan/Sample (https://steamcommunity.com/profiles/76561198185197806), Lobby_Bandit/Bandit (https://steamcommunity.com/id/lobby_bandit), AussiWozzi (https://steamcommunity.com/id/AussiWozzi), Tessa Kitty/123 (https://steamcommunity.com/id/OneMommyTooMany), Preditor/Fedbread (https://steamcommunity.com/profiles/76561198059782417), NotSWorthy (https://steamcommunity.com/profiles/76561198125758643), MIBALongshot (https://steamcommunity.com/id/MIBAMYNIBBA), Gideon/MDG (https://steamcommunity.com/id/MyDudeGideon/), Kyle/CoBud91 (https://steamcommunity.com/id/ZeroNingens), Garith and Budds 
