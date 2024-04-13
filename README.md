@@ -4,7 +4,7 @@ I've made this base for you people with every needed DMX. QC. VTF. VMT. files an
 # "How do I work with this bunch of files? / This is way too complex!"
 This IS MEANT for experienced users knowledgable on Source Engine's model compiling and editing hijinks. You need Crowbar, Blender, Blender Source Tools, VTFEdit and GIMP (because it's free and still as good as Photoshop) to work with all of this. You can get the needed programs from these links: https://www.blender.org/ http://steamreview.org/BlenderSourceTools/ https://github.com/ZeqMacaw/Crowbar https://github.com/NeilJed/VTFLib https://www.gimp.org/
 
-And if you are knowledgable in GitHub too and you want to make some additions/modifications, you can request a fork with your own modifications. Just let me know, will you?
+And if you are knowledgable in GitHub too and you want to make some additions/modifications, you can request a fork with your own modifications and I recommend you to give it a different title or just a tag. Just let me know, will you?
 
 # Consider this as some kind of Terms of Service/License...
 You are allowed to use this repository, that's why I made it in first place. But keep in mind that you can't reupload or claim it as yours: you must credit me for using this to MAKE YOUR OWN clone trooper models and upload them to Gmod or SFM workshops. Also it would be very nice to credit properly these names too:
