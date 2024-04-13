@@ -1,4 +1,4 @@
-# Improved TCW Clone Trooper file repository
+# DaniVader97's Clone Trooper model file repository
 This is some kind of base for you people with every needed DMX. QC. VTF. and VMT. files to make your own posable clone trooper models for Garry's Mod and Source Filmmaker.
 
 # How do I work with this bunch of files?
