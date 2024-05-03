@@ -11,6 +11,7 @@ $model "clone_head" "cth_reference.dmx" {
 	flexcontroller eyes range -45 45 eyes_updown
 	flexcontroller eyes range -45 45 eyes_rightleft   	
 }
+
 $bodygroup "Body"
 {
 	studio "ct_body.dmx"
