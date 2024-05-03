@@ -6,8 +6,10 @@ $model "clone_head" "cth_reference.dmx" {
         eyeball "eye_right" "ValveBiped.Bip01_Head1" -1.62 -1.96 78.70  "eyeball_r" 1 4 "iris_unused" 1.48
 	eyeball "eye_left" "ValveBiped.Bip01_Head1" 1.72 -1.96 78.70 "eyeball_l" 1 -4 "iris_unused" 1.48
 
-        mouth 0 "mouth" "ValveBiped.Bip01_Head1" 0 1 0     
-	
+        mouth 0 "mouth" "ValveBiped.Bip01_Head1" 0 1 0
+
+	flexcontroller eyes range -45 45 eyes_updown
+        flexcontroller eyes range -45 45 eyes_rightleft   	
 }
 $bodygroup "Body"
 {
