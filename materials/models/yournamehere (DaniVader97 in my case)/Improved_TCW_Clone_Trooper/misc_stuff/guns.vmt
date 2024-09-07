@@ -1,7 +1,7 @@
 VertexLitGeneric
 {
-	$basetexture "models\DaniVader97\Improved_TCW_Captain_Rex/guns"
-	$bumpmap "models\DaniVader97\Improved_TCW_Captain_Rex/normal_8x8"
+	$basetexture "models\DaniVader97\Improved_TCW_Clone_Trooper\misc_stuff/guns"
+	$bumpmap "models\DaniVader97\Improved_TCW_Clone_Trooper\main/normal_8x8"
 	$surfaceprop Plastic
 
                 $ambientocclusion 1
@@ -23,6 +23,6 @@ VertexLitGeneric
 	$rimlightboost          4
 
 
-               "$lightwarptexture" "models/DaniVader97/Improved_TCW_Captain_Rex/lightwarp"
+               "$lightwarptexture" "models/DaniVader97/Improved_TCW_Clone_Trooper\main/lightwarp"
 
 }
