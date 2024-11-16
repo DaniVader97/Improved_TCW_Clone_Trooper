@@ -1,5 +1,5 @@
 
-$modelname "DaniVader97/Improved_TCW_Clone_Trooper_misc_stuff/CT_ARC_Trooper_equipment.mdl"
+$modelname "DaniVader97/improved_tcw_clone_trooper_misc_stuff/ct_arc_trooper_equipment.mdl"
 
 $bodygroup "Pauldrons"
 {
@@ -52,12 +52,12 @@ $bodygroup "Kama"
 }
 $bodygroup "Back pouches"
 {
-	studio "ct_gear_arc_back_pouches.dmx"
+	studio "ct_gear_arc_kama_pouches.dmx"
 	blank
 }
 $bodygroup "Kama pouches"
 {
-	studio "ct_gear_arc_kama_pouches.dmx"
+	studio "ct_gear_arc_back_pouches.dmx"
 	studio "ct_gear_arc_kama_pouches_p15.dmx"
 	blank
 }
