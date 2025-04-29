@@ -18,4 +18,4 @@ Because all of these people are/were the original creators who made these assets
 And finally, under no circumstances should you use this for any type of economical profit or commercial stuff because of Disney and Lucasfilm for obvious reasons: this is meant and solely aimed for making Source Engine models suited for personal fanarts like animations and sceneposing, so as long as you use this repository for your fan made stuff there will be no problems.
 
 # DOWNLOAD
-Just press the green Code button, then click on Download ZIP and it will give you all the files or instead you can go to Releases and download the stuff too.
+Just press the green Code button, then click on Download ZIP and it will give you all the files of this repository.
