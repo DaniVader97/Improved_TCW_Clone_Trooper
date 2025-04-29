@@ -2,18 +2,18 @@
 {
 	"$basetexture" "models\DaniVader97\Improved_TCW_Clone_Trooper/main/eyeao"
 
-	"$translucent" "1"
 	"$additive" "1"
 
 	"$nodecal" "1"
 
-	
+	"$color2" "{75 75 75}" 
 
 	"$phong" "1"
 	"$phongexponent" "62"
 	"$phongboost" "1"		
 	"$lightwarptexture" "models\DaniVader97\Improved_TCW_Clone_Trooper/main\eyeglint2_lightwarp"
 	"$phongfresnelranges"	"[1 1 1]"
+	"$halflambert" "1"
 
 
 }
