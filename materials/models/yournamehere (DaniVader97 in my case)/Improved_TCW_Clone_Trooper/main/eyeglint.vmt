@@ -1,13 +1,24 @@
 "VertexLitGeneric"
 {
-	"$translucent" 1
-	"$halflambert" 1
-	"$model" 1
+	"$additive" "1"
+
+	"$nodecal" "1"
+
+	"$color2" "{75 75 75}" 
+
 	"$basetexture" "models\DaniVader97\Improved_TCW_Clone_Trooper/main/eyeao"
 	"$envmap" "models\DaniVader97\Improved_TCW_Clone_Trooper/main/eye-reflection-cubemap-"
-                "$envmaptint" "[.23 .23 .23]"
+                "$envmaptint" "[0.06 0.06 0.06]"
 	"$envmapmask" "models\DaniVader97\Improved_TCW_Clone_Trooper/main/eyemask"
 	"$surfaceprop" "flesh"
-	"$FlashlightNoLambert" 1
+
+	"$phong" "1"
+	"$phongexponent" "62"
+	"$phongboost" "1"		
+	"$lightwarptexture" "models\DaniVader97\Improved_TCW_Clone_Trooper/main\eyeglint2_lightwarp"
+	"$phongfresnelranges"	"[1 1 1]"
+	"$halflambert" "1"
+
 } 
+
 
